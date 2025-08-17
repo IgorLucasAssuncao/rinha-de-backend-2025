@@ -53,7 +53,7 @@ services:
       resources:
         limits:
           cpus: "0.3"
-          memory: "100MB"
+          memory: "90MB"
 
   nginx:
     image: nginx:alpine
